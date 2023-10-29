@@ -14,4 +14,3 @@ Adding a betting mechanism for added excitement.
 Option to upgrade the graphical interface.
 This project was developed as part of learning Java and represents a simple example of a casino application.
 
-Feel free to modify or expand the description as needed for your GitHub project. If you have any more questions or need further assistance, feel free to ask!
